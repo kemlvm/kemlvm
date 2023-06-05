@@ -1,6 +1,10 @@
 ### Merhaba, Ben [Kemal Ünlü] 👋
 
-I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+Ben küçüklüğümden beri bilgisayar ile burun buruna yaşayan birisiyim ve bu zamanlarda kendimi geliştirdim Yazılım Dilleri öğrendim kendi çapımda projeler geliştirdim.
+Pandemi dönemini çok verimli geçirerek zamanı iyi değerlendirdim ve şimdi iyi derecede Python ve Javascript dillerini biliyorum.
+Ek olarak bu dillerin Frameworklerini de biliyorum Javascript Kısmında ReactJS,NodeJs ve NextJs, Python kısmında ise Django ve Flask da başarılı projeler yaptım.
+Bunun yanı sıra Web Projelerinde de yer aldım  Back-End Developer Olarak PHP [Laravel,Codeigniter] / Javascriptde ise diger saydığım Frameworkler ile proje geliştirmekteyim.
+Full-Stack Developer degilim sadece Back-End kısmında kendimi geliştirdim.
 
 **Araştırma İlgi Alanlarım:**:
 - Veri Bilimi
@@ -13,18 +17,10 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 
  **I am open to**:
 
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
-
-**Recent Update**:
-- **August 2022**: Our paper _Anomaly Detection in Healthcare_ has been accepted for publication at the 11th International Conference on Health Information Science 2022 (HIS 2022).
-- **July 2022**: Our paper _sGrid++ : Revising Simple Grid based Density Estimator for Mining Outlying Aspect_ has been accepted for publication at the 23rd International Conference on Web Information Systems Engineering 2022 (WISE 2022).
-- **April 2022**: Our paper _A New Dimensionality-Unbiased Score for Efficient and Effective Outlying Aspect Mining_ accepted for the publication by the Data Science and Engineering Journal (Springer).[[Paper]](https://link.springer.com/article/10.1007/s41019-022-00185-5)
-
-**Service to research comunity**:
-- PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020].
+- Herhangi bir işbirliği çalışması,
+- makine öğrenimi projeleri (geliştirme veya araştırma),
+- araştırma stajları ve
+- Makine Öğrenimi/Veri madenciliği dergileri için çalışmaya ve proje yapmaya hazırım.
 
 ## Skills:
 
@@ -62,21 +58,19 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/@Developer2Space) 
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/kemlvm)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kemlvm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemlvm&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/kemlvm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kemlvm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/kemlvm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemlvm&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- 
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/kemlvm/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/kemlvm/github-readme-stats)
  -->
 
 <!--
