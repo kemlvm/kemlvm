@@ -1,26 +1,29 @@
-### Merhaba, Ben [Kemal Ünlü] 👋
+### Merhaba, Ben Kemal Ünlü 👋
 
-- Ben küçüklüğümden beri bilgisayar ile burun buruna yaşayan birisiyim ve bu zamanlarda kendimi geliştirdim Yazılım Dilleri öğrendim kendi çapımda projeler geliştirdim.
-- Pandemi dönemini çok verimli geçirerek zamanı iyi değerlendirdim ve şimdi iyi derecede Python ve Javascript dillerini biliyorum.
-- Ek olarak bu dillerin Frameworklerini de biliyorum Javascript Kısmında ReactJS,NodeJs ve NextJs, Python kısmında ise Django ve Flask da başarılı projeler yaptım.
-- Bunun yanı sıra Web Projelerinde de yer aldım  Back-End Developer Olarak PHP [Laravel,Codeigniter] / Javascriptde ise diger saydığım Frameworkler ile proje geliştirmekteyim.
-- Full-Stack Developer degilim sadece Back-End kısmında kendimi geliştirdim.
+- Bilgisayar ile küçük yaştan beri iç içeyim ve bu süreçte kendimi sürekli geliştirdim. Yazılım dilleri öğrenerek, kendi projelerimi geliştirdim.
+- Pandemi dönemini verimli bir şekilde değerlendirerek, Python ve JavaScript dillerinde sağlam bir bilgi birikimi edindim.
+- Ayrıca, bu dillerin çeşitli framework'leri hakkında da deneyim sahibiyim. JavaScript tarafında **ReactJS**, **Node.js** ve **Next.js** ile, Python tarafında ise **Django** ve **Flask** ile başarılı projeler gerçekleştirdim.
+- Web projelerinde de yer alarak, **Back-End Developer** olarak **PHP** (Laravel, CodeIgniter) ve JavaScript framework'leri ile projeler geliştirdim.
+- Kendimi **Full-Stack Developer** olarak tanımlamıyorum; yalnızca **Back-End** alanında uzmanlaştım.
 
-**Araştırma İlgi Alanlarım:**:
+#### **Araştırma İlgi Alanlarım:**
 - Veri Bilimi
 - Makine Öğrenmesi
-- Kripto ve Hisse Analizi (Geliştirilen Yapay Zekalar İle)
-- Veri Görselleştirilmesi | Clipit İle
+- Kripto ve Hisse Analizi (Geliştirilen Yapay Zekalar ile)
+- Veri Görselleştirme | Clipit ile
 - Yapay Zeka - Sesli Asistan
-- Veritabanları [Mongo DB,HeidiSQL,Mingo,Mysql,PostegroSQL]
+- Veritabanları (MongoDB, HeidiSQL, Mingo, MySQL, PostgreSQL)
 - Firebase Database ve Amazon Veritabanı Entegrasyonları
 
- **Tüm Projelere Açığım**:
+#### **Tüm Projelere Açığım:**
+- Her türlü işbirliği çalışmasına
+- Makine öğrenimi projelerine (geliştirme veya araştırma)
+- Araştırma stajlarına
+- Makine Öğrenimi ve Veri Madenciliği üzerine dergilere proje yapmaya ve çalışmaya hazırım.
 
-- Herhangi bir işbirliği çalışması,
-- makine öğrenimi projeleri (geliştirme veya araştırma),
-- araştırma stajları ve
-- Makine Öğrenimi/Veri madenciliği dergileri için çalışmaya ve proje yapmaya hazırım.
+---
+
+İletişime geçmek için [GitHub](https://github.com/kemlvm) profillerimden ulaşabilirsiniz!
 
 ## Yetenekler:
 
